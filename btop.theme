@@ -23,7 +23,7 @@ theme[selected_fg]="#ffd4b8"
 theme[inactive_fg]="#8a7565"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#6b9ac4"
+theme[proc_misc]="#ff7034"
 
 # Cpu box outline color
 theme[cpu_box]="#3d2f27"
@@ -40,43 +40,43 @@ theme[proc_box]="#3d2f27"
 # Box divider line and small boxes line color
 theme[div_line]="#3d2f27"
 
-# Temperature graph colors
+# Temperature graph colors (green -> orange -> red)
 theme[temp_start]="#7fae6d"
-theme[temp_mid]="#f0a855"
+theme[temp_mid]="#e89b5f"
 theme[temp_end]="#e65c4f"
 
-# CPU graph colors
+# CPU graph colors (green -> copper orange -> red)
 theme[cpu_start]="#7fae6d"
-theme[cpu_mid]="#f0a855"
+theme[cpu_mid]="#ff7034"
 theme[cpu_end]="#e65c4f"
 
-# Mem/Disk free meter
+# Mem/Disk free meter (green gradient)
 theme[free_start]="#7fae6d"
-theme[free_mid]="#f0a855"
-theme[free_end]="#e65c4f"
+theme[free_mid]="#7fae6d"
+theme[free_end]="#7fae6d"
 
-# Mem/Disk cached meter
-theme[cached_start]="#7fae6d"
-theme[cached_mid]="#f0a855"
-theme[cached_end]="#e65c4f"
+# Mem/Disk cached meter (amber/copper gradient)
+theme[cached_start]="#e89b5f"
+theme[cached_mid]="#cd7f4e"
+theme[cached_end]="#d4743f"
 
-# Mem/Disk available meter
+# Mem/Disk available meter (green gradient)
 theme[available_start]="#7fae6d"
-theme[available_mid]="#f0a855"
-theme[available_end]="#e65c4f"
+theme[available_mid]="#7fae6d"
+theme[available_end]="#7fae6d"
 
-# Mem/Disk used meter
+# Mem/Disk used meter (green -> orange -> red)
 theme[used_start]="#7fae6d"
-theme[used_mid]="#f0a855"
+theme[used_mid]="#ff7034"
 theme[used_end]="#e65c4f"
 
-# Download graph colors
+# Download graph colors (green -> orange)
 theme[download_start]="#7fae6d"
-theme[download_mid]="#f0a855"
-theme[download_end]="#e65c4f"
+theme[download_mid]="#ff7034"
+theme[download_end]="#e89b5f"
 
-# Upload graph colors
+# Upload graph colors (green -> orange)
 theme[upload_start]="#7fae6d"
-theme[upload_mid]="#f0a855"
-theme[upload_end]="#e65c4f"
+theme[upload_mid]="#ff7034"
+theme[upload_end]="#e89b5f"
 
