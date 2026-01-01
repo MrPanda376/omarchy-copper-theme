@@ -31,6 +31,26 @@ theme[mem_start]="#b8825a"
 theme[mem_mid]="#d4743f"
 theme[mem_end]="#e89b5f"
 
+# Mem/Disk free meter (green gradient)
+theme[free_start]="#7fae6d"
+theme[free_mid]="#7fae6d"
+theme[free_end]="#7fae6d"
+
+# Mem/Disk cached meter (amber/copper gradient)
+theme[cached_start]="#e89b5f"
+theme[cached_mid]="#cd7f4e"
+theme[cached_end]="#d4743f"
+
+# Mem/Disk available meter (green gradient)
+theme[available_start]="#7fae6d"
+theme[available_mid]="#7fae6d"
+theme[available_end]="#7fae6d"
+
+# Mem/Disk used meter (green -> orange -> red)
+theme[used_start]="#7fae6d"
+theme[used_mid]="#ff7034"
+theme[used_end]="#e65c4f"
+
 # Network gradients - from amber to warm bronze
 theme[download_start]="#e89b5f"
 theme[download_mid]="#f0a855"
