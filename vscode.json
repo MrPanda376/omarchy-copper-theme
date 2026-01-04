@@ -150,7 +150,7 @@
     "terminal.ansiBrightMagenta": "#e89b5f",
     "terminal.ansiBrightCyan": "#6b9ac4",
     "terminal.ansiBrightWhite": "#e8d5c4",
-    "terminal.selectionBackground": "#4a342840",
+    "terminal.selectionBackground": "#ff703440",
     "terminalCursor.background": "#1a1412",
     "terminalCursor.foreground": "#ff8f5f",
     "debugToolBar.background": "#2a211d",
